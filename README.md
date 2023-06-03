@@ -1,6 +1,6 @@
 # Architecture-front-end-webdevelopment
 
-Demo Link : 
+Demo Link : https://devvkumar.github.io/Architecture-front-end-webdevelopment/
 <!---
 devvkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -25,9 +25,9 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/devkumaar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="dev-kumar01/" height="30" width="40" /></a>
-<a href="https://instagram.com/devkardam__" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" alt="dev._.kumar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dkkardam49?hr_r=1" target="blank"><img align="center" src="https://cdn-0.developerpitstop.com/wp-content/uploads/2021/09/hackerank-logo-1024x585.png?ezimgfmt=ng:webp/ngcb2" alt="dk8214" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devkumaar/" target="blank"><img align="center" src="https://th.bing.com/th/id/R.21fba12531ac377e1642a01921db9fbd?rik=ErbH90Kfy3L6tg&riu=http%3a%2f%2fencomium.ng%2fwp-content%2fuploads%2f2016%2f01%2fLinkedIn-Logo.png&ehk=qo9l10kLERwTTr5WEWyHeVR%2bKIWh4CchVBnnAxyz3ic%3d&risl=&pid=ImgRaw&r=0" alt="devvkumar/" height="90" width="80"  /></a>
+<a href="https://instagram.com/devkardam__" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" alt="dev._.kumar" height="90" width="80"  /></a>
+<a href="https://www.hackerrank.com/dkkardam49?hr_r=1" target="blank"><img align="center" src="https://cdn-0.developerpitstop.com/wp-content/uploads/2021/09/hackerank-logo-1024x585.png?ezimgfmt=ng:webp/ngcb2" alt="dk8214" height="90" width="80" /></a>
 </p>
 
 
